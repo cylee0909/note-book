@@ -48,6 +48,8 @@ Android 提供一个[托管内存环境](https://developer.android.google.cn/top
 | +---------+ |      | +------------+ |              | +---------------+ |
 +-------------+      +----------------+ 0x00000000   +-------------------+
     ELF File         Virtual Address Space              Physical Memory
+    
+from（https://github.com/liuyangc3/note-book/blob/master/kernel/%E8%BF%9B%E7%A8%8B%E5%86%85%E5%AD%98%E5%88%86%E5%B8%83.md）
 ```
 
 
