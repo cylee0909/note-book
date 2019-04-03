@@ -110,12 +110,12 @@ Usage: top [ -m max_procs ][ -n iterations ] [ -d delay ][ -s sort_column ] [ -t
 
 top命令结果
 
-![Memory in top](top.png)
+![Memory in top](top.PNG)
 
 
 
 Android Studio内存查看
-![Memory in top](android_studio.png)
+![Memory in top](android_studio.PNG)
 
 
 
